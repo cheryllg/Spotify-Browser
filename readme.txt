@@ -1,3 +1,3 @@
-Spotify Browser
+#Spotify Browser
 
 - Built using angular
